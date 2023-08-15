@@ -14,7 +14,7 @@ A quick reference guide for common MongoDB shell commands and operations.
 ## Connecting to MongoDB
 
 ```shell
-mongo --host <hostname> --port <port> -u <username> -p <password> --authenticationDatabase <authDB>
+mongosh --host <hostname> --port <port> -u <username> -p <password> --authenticationDatabase <authDB>
 ```
 
 ## Connecting to MongoDB
