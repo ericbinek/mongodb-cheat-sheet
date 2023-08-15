@@ -17,7 +17,7 @@ A quick reference guide for common MongoDB shell commands and operations.
 mongosh --host <hostname> --port <port> -u <username> -p <password> --authenticationDatabase <authDB>
 ```
 
-## Connecting to MongoDB
+## Basic Commands
 
 ```shell
 show dbs                    # List all databases
